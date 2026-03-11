@@ -16,7 +16,6 @@
 - [Clase 4: Pandas Avanzado](#-clase-4-pandas-avanzado)
 - [Clase 5: Visualización de Datos](#-clase-5-visualización-de-datos)
 - [Clase 6: Visualizaciones Avanzadas](#-clase-6-visualizaciones-avanzadas)
-- [Clase 7: Machine Learning](#-clase-7-machine-learning)
 - [Material Extra](#-material-extra)
 - [Requisitos](#-requisitos)
 - [Cómo Usar Este Repositorio](#-cómo-usar-este-repositorio)
@@ -59,7 +58,6 @@ INTRO_PYTHON_EDCO/
 ├── 📁 clase_4/          # Pandas avanzado (merge, groupby)
 ├── 📁 clase_5/          # Visualización con Matplotlib
 ├── 📁 clase_6/          # Visualizaciones avanzadas con Seaborn
-├── 📁 clase_7/          # Machine Learning
 └── 📁 extras/           # Material complementario y ejercicios
 ```
 
@@ -274,48 +272,6 @@ INTRO_PYTHON_EDCO/
 
 ---
 
-## 🤖 Clase 7: Machine Learning
-
-**📂 Carpeta:** [`clase_7/`](clase_7/)
-
-### Contenido
-
-- **Introducción al Machine Learning**:
-  - ¿Qué es ML? (perspectiva Data Science y AI)
-  - Tipos de aprendizaje
-- **Aprendizaje Supervisado**:
-  - Regresión lineal
-  - Clasificación
-  - Evaluación de modelos
-- **Aprendizaje No Supervisado**:
-  - Clustering
-  - Segmentación
-- **Problemas comunes**:
-  - Overfitting
-  - División de datos (train/test)
-- **Aplicaciones prácticas**:
-  - Pronóstico de demanda
-  - Scoring crediticio
-  - Detección de fraude
-  - Segmentación de clientes
-
-### Archivos
-
-- 📓 `Modulo7_after.ipynb` - Notebook con ejercicios resueltos
-- 🔗 [`datos.md`](clase_7/datos.md) - **Enlace a datos y notebook original en Dropbox**
-
-> ⚠️ **Nota:** Los datos y el notebook original de esta clase están en Dropbox. Consulta el archivo `datos.md` para el enlace de descarga.
-
-### Objetivos de Aprendizaje
-
-✅ Comprender los fundamentos del Machine Learning  
-✅ Diferenciar entre aprendizaje supervisado y no supervisado  
-✅ Implementar modelos de regresión lineal  
-✅ Evaluar y validar modelos predictivos  
-✅ Aplicar ML a problemas reales de negocio
-
----
-
 ## 🎁 Material Extra
 
 **📂 Carpeta:** [`extras/Bolsas_ejercicios/`](extras/Bolsas_ejercicios/)
@@ -377,7 +333,6 @@ pip install pandas numpy matplotlib seaborn jupyter
 | `numpy` | 1.21.0+ | Operaciones numéricas |
 | `matplotlib` | 3.4.0+ | Visualización básica |
 | `seaborn` | 0.11.0+ | Visualización estadística |
-| `scikit-learn` | 1.0.0+ | Machine Learning (Clase 7) |
 | `polars` | - | Alternativa a Pandas (opcional) |
 
 ### Instalación Recomendada con Anaconda
@@ -413,18 +368,17 @@ jupyter notebook
 
 ### 4️⃣ Navegar por las Clases
 
-Sigue el orden secuencial de las clases (1-7) para un aprendizaje progresivo:
+Sigue el orden secuencial de las clases (1-6) para un aprendizaje progresivo:
 
 1. Comienza con `clase_1/Modulo1.ipynb`
 2. Avanza a `clase_2/Modulo2.ipynb`
-3. Continúa secuencialmente hasta `clase_7/`
+3. Continúa secuencialmente hasta `clase_6/`
 
 ### 5️⃣ Descargar Datos Externos
 
 Algunas clases requieren datos externos alojados en Dropbox:
 
 - **Clase 6:** Ver [`clase_6/datos.md`](clase_6/datos.md)
-- **Clase 7:** Ver [`clase_7/datos.md`](clase_7/datos.md)
 - **Ejercicios Extra:** Ver [`extras/Bolsas_ejercicios/Ejercicios_2.md`](extras/Bolsas_ejercicios/Ejercicios_2.md)
 
 ---
