@@ -1,0 +1,13 @@
+producto,categoria,cantidad,precio_unitario,vendedor,sucursal
+Arroz Diana,Granos,150,4500,Carlos Pérez,Norte
+Aceite Girasol,Aceites,80,12000,María López,Sur
+Leche Alpina,Lácteos,200,3800,Carlos Pérez,Norte
+Pan Bimbo,Panadería,120,5200,Ana Gómez,Centro
+Jabón Dove,Cuidado Personal,90,7600,María López,Sur
+Café Sello Rojo,Bebidas,110,9800,Ana Gómez,Centro
+Pasta Doria,Granos,95,3200,Carlos Pérez,Norte
+Galletas Oreo,Snacks,160,4100,María López,Sur
+Atún Van Camps,Enlatados,70,6500,Ana Gómez,Centro
+Chocolate Corona,Bebidas,85,5900,Carlos Pérez,Norte
+Azúcar Manuelita,Granos,130,3600,María López,Sur
+Salchichas Zenú,Carnes Frías,75,8200,Ana Gómez,Centro

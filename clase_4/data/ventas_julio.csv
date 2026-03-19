@@ -1,0 +1,11 @@
+producto,categoria,cantidad,precio_unitario,vendedor,meta_cumplida
+Arroz Diana,Granos,170,4500,Carlos Pérez,True
+Aceite Girasol,Aceites,65,12500,María López,False
+Leche Alpina,Lácteos,210,3900,Carlos Pérez,True
+Pan Bimbo,Panadería,100,5200,Ana Gómez,True
+Jabón Dove,Cuidado Personal,110,7600,María López,True
+Café Sello Rojo,Bebidas,95,10200,Ana Gómez,False
+Pasta Doria,Granos,140,3200,Carlos Pérez,True
+Galletas Oreo,Snacks,180,4300,María López,True
+Yogurt Alpina,Lácteos,90,4800,Ana Gómez,True
+Cereal Kelloggs,Snacks,60,14500,Carlos Pérez,False
